@@ -1,0 +1,107 @@
+.once-trend{
+    color: #0166F2 ;
+font-weight: 600;
+}
+.twice-trend{
+    color: #838584 ;
+letter-spacing: 1px;
+font-weight: 500;
+}
+.papatrend{
+    margin-top: 50px;
+}
+img{
+    width: 250px;
+    height: 230px;
+}
+.clock{
+     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+     background-size: cover;
+   
+
+}
+.mm{
+    margin-top: 50px;
+}
+.podcast{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+ background-size: cover;
+  
+
+
+
+}
+.homa h3{
+    color: #838584;
+}
+.mopileiphone{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-size: cover;
+  
+    padding: 10px 10px; 
+
+}
+.blackairbods{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+background-size: cover;
+
+padding: 10px 10px;
+
+}
+.bazzoka{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+   background-size: cover;
+
+   margin-top: 7px;
+   padding: 10px 10px;
+
+}
+.whiteairpods{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-size: cover;
+
+    margin-top: 7px;
+    padding: 10px 10px;
+
+}
+.blackairbods{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-size: cover;
+   
+    margin-top: 7px;
+    padding: 10px 10px;
+
+}
+.labtop{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-size: cover;
+  
+    margin-top: 7px;
+    padding: 10px 10px;
+}
+.mm h3{
+color: #838584;
+font-size: 18px;
+font-weight: 600;
+}
+.mm h4{
+font-size: 19px;
+font-weight: 700;
+}
+.mm h6{
+    color: #FAD707;
+    font-size: 19px;
+  
+
+}
+.mm h6 span{
+    color:#838584;
+    font-weight: 600;
+    font-size: 16px;
+   
+}
+.mm h2{
+color: #0166F2;
+font-size: 19px;
+font-weight: 600;
+}

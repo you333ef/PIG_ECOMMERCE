@@ -1,0 +1,69 @@
+.POP{
+    margin-top: 40px;
+    /* ارتفاع العناصر الأولي عن الNAVBAR */
+}
+.Shop-Now{
+    color: aliceblue;
+    background-color: #0166F2;
+    padding:6px 17px;
+    outline: none;
+    border: 1px solid #0166F2;
+    margin-top: 7px;
+    font-weight: 600;
+
+}
+.SHMAl{
+    background-image: url('../assets/hero/slider-bg1.jpg');
+    width: 100%;
+    background-size: cover;
+    padding: 40px;
+}
+.show-UP{
+    background-image: url('../assets/hero/slider-bg2.jpg');
+    width: 100%;
+    background-size: cover;
+    padding: 20px;
+   height: 250px;
+}
+.show-UP .one{
+color: #838584;
+font-weight: 600;
+
+    
+}
+.show-UP .two{
+
+    color: #000;
+    font-weight: 600;
+    
+}
+.show-UP h4{
+    color: #0166F2;
+    font-weight: 600;
+    letter-spacing: 1px;
+
+
+    
+}
+.showw{
+background-image: url('../assets/hero/slider-bnr.jpg');
+    width: 100%;
+    background-size: cover;
+    padding: 20px;
+   height: 250px;
+
+}
+.showw .Weekly{
+color: #838584;
+font-weight: 600;
+ 
+
+}
+.showw .Saving{
+font-size: 22px;
+    color: #000;
+    font-weight: 600;
+    letter-spacing: 1px;
+    
+
+}

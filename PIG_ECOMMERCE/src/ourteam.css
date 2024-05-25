@@ -1,0 +1,53 @@
+.container{
+margin-top: 70px;
+
+
+}
+.container h2{
+    color: #0166F2;
+    font-size:32px ;
+    font-weight: 600;
+}
+.container p{
+    color: #838584;
+    letter-spacing: 2px;
+}
+ .AMAL,.GAMAL,.SAMI,.ESRAA{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+
+
+
+}
+img{
+    border-radius: 50%;
+   width: 220px;
+   height: 200px;
+}
+.LL h3{
+color: #0166F2;
+font-size: 19px;
+font-weight: 600;
+}
+.LL h4{
+    color: #838584;
+    font-size: 17px;
+    font-weight: 500;
+
+}
+.icons {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+    font-size: 20px;
+}
+.icon:hover{
+  color: #0166F2;
+}
+.LL{
+    padding: 30px;
+   
+}

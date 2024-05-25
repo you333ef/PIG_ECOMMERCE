@@ -1,0 +1,51 @@
+.custom-navbar {
+    background-color: #232B36;
+    color: #fff;
+  }
+  
+  .custom-navbar a {
+    color: #fff;
+  }
+  
+  .custom-navbar a:hover {
+    color: #ddd; /* لون عند التحويم */
+  }
+  
+  .custom-footer {
+    background-color: #232B36;
+    color: #fff;
+  }
+  
+  .custom-footer a {
+    color: #fff;
+  }
+  
+  .custom-footer a:hover {
+    color: #ddd; /* لون عند التحويم */
+  }
+  .TXT{
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 3px;
+  }
+  .KOLLO{
+    display: flex;
+    flex-direction: column;
+   margin-top: 10px;
+  
+  }
+   .KOLLO li{
+    
+   margin-top: 10px;
+  }
+  .KOLLO li a{
+    font-weight: 600;
+    line-height: 1px;
+    letter-spacing: 1px;
+   }
+   .FAFY{
+    color: #fff;
+    font-weight: 600;
+    font-size: 45px;
+   }

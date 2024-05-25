@@ -1,0 +1,78 @@
+.cateHead{
+    margin-top: 200px;
+}
+.cate-product,.cateHead{
+  margin-top: 30px;
+}
+.once-cate{
+color: #0166F2 ;
+font-weight: 600;
+}
+.twice-cate{
+color: #838584 ;
+letter-spacing: 1px;
+font-weight: 500;
+}
+.cate-product h3{
+    color: #838584 ;
+    font-size: 20px;
+    font-weight: 600;
+}
+.all-products{
+    margin-top: 60px;
+   padding: 20px;
+}
+.Airpods{
+    display: flex;
+    background-size: cover;
+      align-items: center;
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      padding: 15px ;
+
+   
+}
+
+.Kissa{
+
+    display: flex;
+background-size: cover;
+  align-items: center;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 15px ;
+
+}
+.handcamera{
+    display: flex;
+    background-size: cover;
+      align-items: center;
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      padding: 15px ;
+
+
+
+}
+.camera{
+    display: flex;
+background-size: cover;
+  align-items: center;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin-top: 10px;
+  padding: 15px ;
+}
+.mopile{
+    display: flex;
+    background-size: cover;
+      align-items: center;
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      margin-top: 10px;
+      padding: 15px ;
+
+}
+.playstation{
+display: flex;
+background-size: cover;
+  align-items: center;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin-top: 10px;
+  padding: 15px ;
+}

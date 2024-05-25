@@ -1,0 +1,90 @@
+.CountUp{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 600;
+}
+h3{
+    color: #fff;
+    font-size: 22px;
+    font-weight: 600;
+}
+h4{
+    color: #0166F2;
+    font-size: 19px;
+    font-weight: 600;
+}
+.KOKA{
+    margin-bottom: 200px;
+}
+#Us{
+   color:  #0166F2;
+}
+.JOJO{
+    margin-top: 100px;
+    background-color: #fff;
+    margin-left: 40px;
+    padding: 50px;
+    border-radius: 10px;
+  
+}
+.num{
+    color: #0166F2;
+}
+.persent{
+    color: #0166F2;
+    font-family:cursive;
+}
+.ZAHPY{
+    font-weight: 900;
+    letter-spacing: 1px;
+   
+  
+  
+}
+
+.MEMS{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 30px 40px;
+}
+.client{
+    color: #0166F2;
+    font-size: 33px;
+    font-size: 700;
+    padding: 10px;
+    padding-bottom: 100px;
+}
+.iconstar{
+    color: #0166F2;
+   justify-content: space-around;
+}
+.Charimage{
+    margin-bottom: 40px;
+    padding: 10px;
+    background-size: cover;
+    width: fit-content;
+    margin: auto;
+}
+h4{
+    color: black;
+    font-weight: 600;
+}
+h5{
+    color: black;
+    margin-top: 10px;
+    font-weight: 500;
+}
+#paragraph{
+    color: black;
+}
+.allclients{
+   display: block;
+    margin: auto;
+    padding: 30px;
+  
+}
+.nora{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    display: block;
+    margin: auto;
+    padding: 30px;
+}

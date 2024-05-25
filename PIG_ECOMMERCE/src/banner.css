@@ -1,0 +1,52 @@
+button{
+
+    color: aliceblue;
+    background-color: #0166F2;
+    padding:6px 17px;
+    outline: none;
+    border: 1px solid #0166F2;
+    margin-top: 7px;
+    font-weight: 600;
+
+}
+.Ellol{
+    margin-top: 100px;
+   
+}
+.left{
+background-image: url('./assets/banner/banner-1-bg.jpg');
+background-size: cover;
+width: 90%;
+width: 320px;
+height: 260px;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+padding: 20px;
+margin: 7px;
+
+}
+.right{
+    background-image: url('./assets/banner/banner-2-bg.jpg');
+    background-size: cover;
+    width: 90%;
+    width: 320px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+height: 260px;
+padding: 20px;
+margin: 7px;
+
+
+}
+.Ellol h2{
+color: black;
+font-size: 23px;
+font-weight: 600;
+margin-top: 30px;
+}
+.Ellol h3{
+    color:#838584;
+    font-size: 19px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-top: 30px;
+
+}

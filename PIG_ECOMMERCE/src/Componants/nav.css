@@ -1,0 +1,104 @@
+.twiceDepartment {
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+  }
+  
+  .twiceDepartment a {
+    text-decoration: none;
+    color: #0166F2;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  .shop {
+    font-size: 45px;
+    font-weight: 600;
+  }
+  
+  .thirdDepartment {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .heart {
+    font-size: 27px;
+  }
+  
+  .bag {
+    font-size: 27px;
+    position: relative;
+  }
+  
+  .all {
+    margin-top: 15px;
+    background-color: #fff;
+  }
+  
+  hr {
+    border: 1px solid #000000;
+  }
+  
+  small {
+    padding: 0px 2px;
+    background-color: #F02124;
+    border-radius: 17px;
+    font-weight: 600;
+    color: #fff;
+    font-size: 15px;
+    height: 20px;
+    position: absolute;
+    top: -17px;
+    right: 110px; /* adjust this value as needed */
+  }
+  
+  ul {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 20px;
+    list-style: none;
+  }
+  .bag {
+    font-size: 27px;
+    font-weight: 400;
+    position: relative;
+    display: inline-block; /* لضمان أن العنصر .bag يعامل كصندوق محيط */
+  }
+  
+  
+  /* لضبط التصميم في الشاشات الصغيرة */
+  @media (max-width: 992px) {
+    .onceDepartment {
+      display: none;
+    }
+    .thirdDepartment {
+      display: none;
+    }
+    .navbar-toggler {
+      display: block;
+    }
+    .navbar-collapse.show .onceDepartment,
+    .navbar-collapse.show .thirdDepartment {
+      display: block;
+    }
+  }
+  
+   
+  @media (max-width: 992px) {
+    .onceDepartment {
+      display: none;
+    }
+    .thirdDepartment {
+      display: none;
+    }
+    
+    .navbar-toggler {
+      display: block;
+    }
+    .navbar-collapse.show .onceDepartment,
+    .navbar-collapse.show .thirdDepartment {
+      display: block;
+    }
+  }
+  

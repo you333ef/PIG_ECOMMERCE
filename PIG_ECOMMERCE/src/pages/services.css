@@ -1,0 +1,28 @@
+.title-services{
+    color: #0166F2;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px;
+    cursor: pointer;
+    padding-bottom: 130px;
+}
+.icon{
+font-size: 35px;
+color: #0166F2;
+
+
+}
+#Free{
+    font-size: 30px;
+    font-weight: 600;
+    color: #232B36;
+    margin-top: 10px;
+}
+.oloo{
+  padding: 6px;
+  padding-bottom: 40px;
+}
+.shadoo{
+padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
